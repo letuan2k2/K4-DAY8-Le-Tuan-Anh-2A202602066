@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị cắt ở mép,added,Khoanh thêm xe bị cắt do AI bỏ sót
+1,frame_0182.jpg,vệt sáng,deleted,Xóa vì khoanh nhầm vệt đèn
+1,frame_0326.jpg,xe ở xa,edited,Chỉnh lại khung cho sát thân xe
